@@ -1,7 +1,5 @@
 {
-    "temperatura": [
-        {
-        "temp": "27"
+    "temperatura": {
+        "temp": 27
         }
-    ]
 }
